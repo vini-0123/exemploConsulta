@@ -2,7 +2,7 @@ import Firebase from 'firebase';
 import 'firebase/database';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBLzjs-cFPwJLeyvG-nuRkSWe6l7mAh-Iw",
+  apiKey: "-",
   authDomain: "bd-vinigames.firebaseapp.com",
   projectId: "bd-vinigames",
   storageBucket: "bd-vinigames.firebasestorage.app",
